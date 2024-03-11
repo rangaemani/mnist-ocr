@@ -1,6 +1,6 @@
 # MNIST OCR From Scratch
 ### Description
-Digit recognition OCR ML program built from scratch in Python w/ Pandas, no PyTorch, TensorFlow, etc.
+Extremely rough, low accuracy, digit recognition OCR ML model built from scratch in Python w/ Pandas, no PyTorch, TensorFlow, etc.
 ### Structure
 Breaks a 28 x 28 input image into rows and columns and passes it through the Layers of the Network. Standard neural network structure. Nodes comprise Layers, which combine to form a Network. Each Node has weights and biases to determine whether or not the signal is propogated through from one Layer to the next.
 Generic Equation:|
